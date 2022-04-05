@@ -1,0 +1,4 @@
+dallen,Dan Allen,93.70
+aferry,Avent Ferry,81.75
+ppark2,Pullen Park,76.30
+ddpark,Dorothea Dix Park,100.00
